@@ -6,6 +6,3 @@ def position_taken?(board, index)
   return true
 end
 
-board = []
-index = 0
-puts position_taken?(board, index)
