@@ -5,3 +5,7 @@ def position_taken?(board, index)
   end
   return true
 end
+
+board = []
+index = 0
+puts position_index(board, index)
